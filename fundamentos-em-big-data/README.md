@@ -1,10 +1,10 @@
-# Data Analytics Hands On
+# Fundamentos em Big Data
 
 Trabalhos públicos das equipes:
 
 1 - Equipe Rocket
 
-2 - 
+2 - As meninas Superpoderosas
 
 3 - 
 
